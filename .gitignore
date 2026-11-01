@@ -1,0 +1,26 @@
+# Môi trường và bộ nhớ đệm
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dữ liệu: chỉ đưa bản đã xử lý (để Streamlit Cloud chạy ngay); nhật ký quyết định là dữ liệu cục bộ
+data/*
+!data/processed/
+data/decisions.csv
+
+# Bài báo tham khảo (bản quyền nhà xuất bản) — không đưa lên repo
+*.pdf
+
+# Skill cài cho Claude Code, không phải code của app
+.agents/
+.claude/
+skills-lock.json
+.taste-skill/
+
+.venv/
+__pycache__/
+data/
+output/
+log/
+.env
+.streamlit/secrets.toml

@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#0b6e5f"
+backgroundColor = "#f7f8f7"
+secondaryBackgroundColor = "#eef1ef"
+textColor = "#141716"
+font = "Be Vietnam Pro:https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&display=swap"
+baseRadius = "6px"
+borderColor = "#e3e7e5"
+showWidgetBorder = true
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

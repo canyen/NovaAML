@@ -1,0 +1,12 @@
+streamlit>=1.50
+kagglehub>=0.3.12
+pandas>=2.2
+pyarrow>=17
+numpy>=1.26
+networkx>=3.3
+plotly>=5.24
+scikit-learn>=1.5
+ipykernel>=6.29
+nbformat>=5.10
+nbconvert>=7.16
+matplotlib>=3.9
