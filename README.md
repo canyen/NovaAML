@@ -3,7 +3,7 @@
 Lớp phân tích đồ thị đặt trên hệ thống giám sát giao dịch lõi (TMS) và SIMO của NHNN mà ngân hàng đã có.
 TMS bắt từng giao dịch vượt quy tắc; NovaAML nhìn **mạng lưới**: vòng tròn khép kín, gom–rải tiền,
 chuyển tiếp nhanh, chia nhỏ sát ngưỡng 400 triệu, và khoảng cách tới tài khoản đã có trên SIMO.
-
+Xem demo trực tuyến tại: https://novaaml-srdje7n8zuvnktzu7hnzhn.streamlit.app/
 Dữ liệu: [IBM Transactions for Anti Money Laundering](https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml)
 (bản `HI-Small`: 5.078.345 giao dịch, 515.080 tài khoản, 01–18/09/2022, dữ liệu tổng hợp có nhãn).
 Tải tự động từ Kaggle bằng `kagglehub`, không cần API key. Kết nối TMS và SIMO trong demo là **mô phỏng**.
